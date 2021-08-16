@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nurftismsh
-- 👀 I’m interested in IT especialli in data and machine learning fields
+- 👀 I’m interested in IT especially in data and machine learning fields
 
 
 
